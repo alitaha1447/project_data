@@ -1,0 +1,22 @@
+{
+  "students": [
+    {
+      "stuName": "Taha Ali",
+      "email": "taha4150@gmail.com",
+      "number": "9981341444",
+      "id": 1
+    },
+    {
+      "stuName": "Shabbir Husain",
+      "email": "ha001774@gmail.com",
+      "number": "12324567980",
+      "id": 2
+    },
+    {
+      "stuName": "test",
+      "email": "test@gmail.com",
+      "number": "993187940",
+      "id": 3
+    }
+  ]
+}
