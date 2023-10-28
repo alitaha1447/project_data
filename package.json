@@ -1,7 +1,6 @@
 {
   "name": "project_data",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -13,5 +12,6 @@
   "dependencies": {
     "cors": "^2.8.5",
     "json-server": "^0.17.4"
-  }
+  },
+  "description": ""
 }
